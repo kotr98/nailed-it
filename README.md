@@ -87,6 +87,7 @@ SMTP_PORT = 587
 ### 5. Set Agent ID (Optional)
 
 If using a custom ElevenLabs agent, update the `AGENT_ID` in `elevenlabs_tools.py`:
+The system prompts we used for the ElevenLabs agent are in prompts/
 
 ```python
 AGENT_ID = "your-agent-id-here"
