@@ -1,4 +1,5 @@
 # 🔩 NAIled It – Procurement Assistant for C Materials
+This was a project for the Comstruct Challenge at the Anthropic x TUM.ai Christmas Hackathon 2025.
 
 A Streamlit-based procurement assistant that helps with ordering consumable materials (C materials like fasteners, nails, screws, and small parts) using Claude AI and voice interactions via ElevenLabs.
 
